@@ -1,0 +1,10 @@
+/* MAIN */
+
+* {
+    font-family: "Source Sans Pro", sans-serif;
+}
+
+.main .block-container {
+    /* Expands the width of the Streamlit app by targeting the main container's class */
+    max-width: 1000px !important;
+}
